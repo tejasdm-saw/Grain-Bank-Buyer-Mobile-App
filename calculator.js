@@ -22,5 +22,5 @@ function divide(a, b) {
 // Example usage
 console.log("Add:", add(2, 5));         // 8
 console.log("Subtract:", subtract(5, 3)); // 2
-console.log("Multiplication:", multiply(5, 3)); // 15
+console.log("Multiply:", multiply(5, 3)); // 15
 console.log("Divide:", divide(5, 3));     // 1.666...
