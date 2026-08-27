@@ -20,7 +20,7 @@ function divide(a, b) {
 }
 
 // Example usage
-console.log("Addition:", add(20, 15));         // 8
+console.log("Addition:", add(20, 20));         // 8
 console.log("Subtract:", subtract(15, 15)); // 2
 console.log("Multiply:", multiply(15, 15)); // 15
 console.log("Divide:", divide(20, 20));     // 1.666...
